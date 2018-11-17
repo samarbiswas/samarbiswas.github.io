@@ -1,0 +1,46 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Samar Milan Biswas
+tagline:          'blog'
+# description:      'A passionate 
+#                   <b class="visible">developer,</b>
+#                   <b class="hidden">lifelong learner,</b>
+#                   <b class="hidden">blogger,</b>
+#                   learning to be giant.'
+description:      'A passionate 
+                  <b>Software Developer,</b> 
+                  learning to write<br/>
+                  <span class="changing-keywords">
+                  <b class="visible">simple</b>
+                  <b class="hidden">clean</b>
+                  <b class="hidden">readable</b>
+                  code.
+                  </span>'
+
+url:              https://samarbiswas.github.io
+baseurl:          /
+
+author:
+  name:           'Samar Milan Biswas'
+  url:            www.linkedin.com/in/samarbiswas
+  github:         'https://github.com/samarbiswas'
+  email:          'samarbiswas15@gmail.com'
+  linkedin:       'https://www.linkedin.com/in/samarbiswas '
+
+paginate:         5
+
+# Custom vars
+version:          1.0.0
+
+github:
+  repo:           https://github.com/samarbiswas
